@@ -13,3 +13,12 @@ module.exports = function (name, system) {
   var result = chars.map(function (word, i) {
     // Should it be subbed?
     if (i < surnameLength && Object.keys(surnameSubs).indexOf(word) >= 0) {
+      word = surnameSubs[word]
+    }
+
+    var unicode = 'U+' + word.charCodeAt(0).toString(16).toUpperCase()
+    return processString(data[unicode], system)
+  })
+
+  return formatName(result)
+}
