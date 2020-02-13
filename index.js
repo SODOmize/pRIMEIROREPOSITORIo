@@ -22,3 +22,9 @@ module.exports = function (name, system) {
 
   return formatName(result)
 }
+
+// ['a', 'b'] -> 'b a'
+// ['a', 'b', 'c'] -> 'b-c a'
+// ['a', 'b', 'c', 'd'] -> 'c-d a-b'
+function formatName (arr) {
+  if (arr.length === 2) {
