@@ -34,3 +34,7 @@ function formatName (arr) {
   } else if (arr.length === 4) {
     return arr[2] + '-' + arr[3] + ' ' + arr[0] + '-' + arr[1]
   }
+}
+
+function processString (str, system) {
+  if (!str) {
