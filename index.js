@@ -38,3 +38,12 @@ function formatName (arr) {
 
 function processString (str, system) {
   if (!str) {
+    throw new Error('Input contains non-Chinese characters')
+  }
+
+  str = removeDiacritics(str).toUpperCase()
+
+  // romanization system
+  if (system !== 'HANYU') {
+    str = romanizationSys[str][system]
+  }
