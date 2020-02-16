@@ -47,3 +47,8 @@ function processString (str, system) {
   if (system !== 'HANYU') {
     str = romanizationSys[str][system]
   }
+
+  // titleCase
+  str = str.charAt(0).toUpperCase() + str.slice(1, str.length).toLowerCase()
+  return str
+}
