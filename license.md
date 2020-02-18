@@ -1,1 +1,3 @@
-The MIT License 
+The MIT License (MIT)
+
+Copyrig
