@@ -1,3 +1,3 @@
 The MIT License (MIT)
 
-Copyrig
+Copyright (c) 20
