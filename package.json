@@ -3,4 +3,5 @@
   "version": "2.0.0",
   "description": "Romanizing Chinese names.",
   "main": "index.js",
-  "scripts"
+  "scripts": {
+    "tape
