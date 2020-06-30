@@ -4,4 +4,4 @@
   "description": "Romanizing Chinese names.",
   "main": "index.js",
   "scripts": {
-    "tape
+    "tape": "node test
