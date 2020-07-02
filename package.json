@@ -4,4 +4,5 @@
   "description": "Romanizing Chinese names.",
   "main": "index.js",
   "scripts": {
-    "tape": "node test/test.js | tap
+    "tape": "node test/test.js | tap-spec",
+  
