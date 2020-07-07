@@ -5,4 +5,5 @@
   "main": "index.js",
   "scripts": {
     "tape": "node test/test.js | tap-spec",
-    "test": "standard && npm run ta
+    "test": "standard && npm run tape"
+  },
