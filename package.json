@@ -8,4 +8,4 @@
     "test": "standard && npm run tape"
   },
   "repository": {
-    
+    "typ
