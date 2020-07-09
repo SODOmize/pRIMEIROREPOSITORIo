@@ -8,4 +8,5 @@
     "test": "standard && npm run tape"
   },
   "repository": {
-    "type": "git
+    "type": "git",
+   
