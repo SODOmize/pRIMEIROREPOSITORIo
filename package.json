@@ -24,4 +24,4 @@
   },
   "homepage": "https://github.com/muan/romanize-names#readme",
   "dependencies": {
-    "diacritic
+    "diacritics": "^1.2.
