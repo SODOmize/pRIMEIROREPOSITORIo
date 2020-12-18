@@ -26,3 +26,5 @@
   "dependencies": {
     "diacritics": "^1.2.2",
     "unicode-mandarin-readings": "^1.0.0"
+  },
+  
