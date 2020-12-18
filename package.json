@@ -25,4 +25,4 @@
   "homepage": "https://github.com/muan/romanize-names#readme",
   "dependencies": {
     "diacritics": "^1.2.2",
-    "unicode-mandarin-
+    "unicode-mandarin-readings": "
