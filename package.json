@@ -28,4 +28,4 @@
     "unicode-mandarin-readings": "^1.0.0"
   },
   "devDependencies": {
-    "standard": 
+    "standard": "^5.1.1",
