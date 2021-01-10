@@ -29,4 +29,4 @@
   },
   "devDependencies": {
     "standard": "^5.1.1",
-    "tap-s
+    "tap-spec": "~1.0
