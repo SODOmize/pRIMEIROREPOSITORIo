@@ -1,1 +1,1 @@
-# Romanize names [![Travis CI](https://travis-ci.org/muan/romanize-names.s
+# Romanize names [![Travis CI](https://travis-ci.org/muan/romanize-names.svg?branch=maste
