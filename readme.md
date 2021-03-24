@@ -1,1 +1,1 @@
-# Romanize names [![Travis CI](https://travis-ci.org/muan/romanize-names.svg?branch=master)](https://travis-ci.org/muan/romanize-names) [![js-standard-style](https://img.shields.io/badge/co
+# Romanize names [![Travis CI](https://travis-ci.org/muan/romanize-names.svg?branch=master)](https://travis-ci.org/muan/romanize-names) [![js-standard-style](https://img.shields.io/badge/code%20style-stan
