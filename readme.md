@@ -2,4 +2,5 @@
 
 Romanizing Chinese names for Taiwan. [It's a :poop: show.](https://en.wikipedia.org/wiki/Chinese_language_romanization_in_Taiwan)
 
-## Ins
+## Install
+
