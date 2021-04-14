@@ -5,4 +5,4 @@ Romanizing Chinese names for Taiwan. [It's a :poop: show.](https://en.wikipedia.
 ## Install
 
 ```
-npm insta
+npm install romanize-nam
