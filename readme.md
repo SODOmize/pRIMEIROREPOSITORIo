@@ -9,3 +9,5 @@ npm install romanize-names
 ```
 
 ## Usage
+
+```ja
