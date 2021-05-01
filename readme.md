@@ -11,4 +11,4 @@ npm install romanize-names
 ## Usage
 
 ```javascript
-var romanize = 
+var romanize = require
