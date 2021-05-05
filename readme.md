@@ -11,4 +11,5 @@ npm install romanize-names
 ## Usage
 
 ```javascript
-var romanize = require('romani
+var romanize = require('romanize-names')
+ro
