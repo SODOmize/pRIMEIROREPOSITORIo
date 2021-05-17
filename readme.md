@@ -16,4 +16,4 @@ romanize(name_in_zhTW, system)
 ```
 
 `system` String
-  - `WG` (default) https:/
+  - `WG` (default) https://en.wik
