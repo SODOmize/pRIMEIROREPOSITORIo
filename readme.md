@@ -12,4 +12,4 @@ npm install romanize-names
 
 ```javascript
 var romanize = require('romanize-names')
-romanize(nam
+romanize(name_in_zhTW,
