@@ -16,4 +16,4 @@ romanize(name_in_zhTW, system)
 ```
 
 `system` String
-  - `WG` (default) https://en.wikipedia.o
+  - `WG` (default) https://en.wikipedia.org/wiki/Wa
