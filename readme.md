@@ -12,4 +12,6 @@ npm install romanize-names
 
 ```javascript
 var romanize = require('romanize-names')
-romanize(name_in_zhTW,
+romanize(name_in_zhTW, system)
+```
+
