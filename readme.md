@@ -17,4 +17,4 @@ romanize(name_in_zhTW, system)
 
 `system` String
   - `WG` (default) https://en.wikipedia.org/wiki/Wade%E2%80%93Giles
-  - `MPS-II` http
+  - `MPS-II` https://en.wikip
