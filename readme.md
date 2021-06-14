@@ -18,4 +18,4 @@ romanize(name_in_zhTW, system)
 `system` String
   - `WG` (default) https://en.wikipedia.org/wiki/Wade%E2%80%93Giles
   - `MPS-II` https://en.wikipedia.org/wiki/Mandarin_Phonetic_Symbols_II
-  - `TONG
+  - `TONGYONG` htt
