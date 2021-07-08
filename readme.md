@@ -19,4 +19,4 @@ romanize(name_in_zhTW, system)
   - `WG` (default) https://en.wikipedia.org/wiki/Wade%E2%80%93Giles
   - `MPS-II` https://en.wikipedia.org/wiki/Mandarin_Phonetic_Symbols_II
   - `TONGYONG` https://en.wikipedia.org/wiki/Tongyong_Pinyin
-  - `HANYU` https://en.w
+  - `HANYU` https://en.wikipedia.or
