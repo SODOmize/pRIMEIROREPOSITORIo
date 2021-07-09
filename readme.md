@@ -21,4 +21,6 @@ romanize(name_in_zhTW, system)
   - `TONGYONG` https://en.wikipedia.org/wiki/Tongyong_Pinyin
   - `HANYU` https://en.wikipedia.org/wiki/Pinyin
 
-## 
+## Examples
+
+```javas
