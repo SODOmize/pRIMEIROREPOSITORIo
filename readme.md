@@ -23,4 +23,4 @@ romanize(name_in_zhTW, system)
 
 ## Examples
 
-```javas
+```javascript
