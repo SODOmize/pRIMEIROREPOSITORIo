@@ -24,4 +24,5 @@ romanize(name_in_zhTW, system)
 ## Examples
 
 ```javascript
-romanize('
+romanize('張懸')
+> 
