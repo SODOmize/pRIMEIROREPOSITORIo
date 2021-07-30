@@ -25,4 +25,5 @@ romanize(name_in_zhTW, system)
 
 ```javascript
 romanize('張懸')
-> 
+> Hsuan Chang
+
