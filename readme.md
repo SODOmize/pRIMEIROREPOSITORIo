@@ -27,4 +27,5 @@ romanize(name_in_zhTW, system)
 romanize('張懸')
 > Hsuan Chang
 
-romanize('張懸', 'MPS-I
+romanize('張懸', 'MPS-II')
+> Shi
