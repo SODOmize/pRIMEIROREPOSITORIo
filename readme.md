@@ -28,4 +28,5 @@ romanize('張懸')
 > Hsuan Chang
 
 romanize('張懸', 'MPS-II')
-> Shi
+> Shiuan Jang
+
