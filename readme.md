@@ -31,4 +31,6 @@ romanize('張懸', 'MPS-II')
 > Shiuan Jang
 
 romanize('張懸', 'TONGYONG')
-> Syuan
+> Syuan Jhang
+
+r
