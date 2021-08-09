@@ -34,3 +34,4 @@ romanize('張懸', 'TONGYONG')
 > Syuan Jhang
 
 romanize('張懸', 'HANYU')
+> Xuan Zh
