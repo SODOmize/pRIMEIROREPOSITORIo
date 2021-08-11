@@ -37,4 +37,5 @@ romanize('張懸', 'HANYU')
 > Xuan Zhang
 ```
 
-```javascr
+```javascript
+romaniz
