@@ -38,4 +38,4 @@ romanize('張懸', 'HANYU')
 ```
 
 ```javascript
-romaniz
+romanize('秋木安
