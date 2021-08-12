@@ -38,4 +38,5 @@ romanize('張懸', 'HANYU')
 ```
 
 ```javascript
-romanize('秋木安
+romanize('秋木安')
+> Mu-An Chiu
