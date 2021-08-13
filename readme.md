@@ -41,4 +41,4 @@ romanize('張懸', 'HANYU')
 romanize('秋木安')
 > Mu-An Chiu
 
-roma
+romanize('秋木安'
