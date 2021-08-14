@@ -42,4 +42,4 @@ romanize('秋木安')
 > Mu-An Chiu
 
 romanize('秋木安', 'MPS-II')
->
+> Mu-An Ch
