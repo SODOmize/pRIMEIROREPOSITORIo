@@ -47,4 +47,5 @@ romanize('秋木安', 'MPS-II')
 romanize('秋木安', 'TONGYONG')
 > Mu-An Ciou
 
-romanize('秋木安', 'HA
+romanize('秋木安', 'HANYU')
+> Mu-An
