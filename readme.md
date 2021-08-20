@@ -48,4 +48,5 @@ romanize('秋木安', 'TONGYONG')
 > Mu-An Ciou
 
 romanize('秋木安', 'HANYU')
-> Mu-An
+> Mu-An Qiu
+```
