@@ -50,3 +50,5 @@ romanize('秋木安', 'TONGYONG')
 romanize('秋木安', 'HANYU')
 > Mu-An Qiu
 ```
+
+```javas
