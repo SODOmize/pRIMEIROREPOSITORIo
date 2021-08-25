@@ -51,4 +51,5 @@ romanize('秋木安', 'HANYU')
 > Mu-An Qiu
 ```
 
-```javas
+```javascript
+roman
