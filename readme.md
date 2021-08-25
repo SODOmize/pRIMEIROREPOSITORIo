@@ -52,4 +52,5 @@ romanize('秋木安', 'HANYU')
 ```
 
 ```javascript
-romanize('范姜峻宏'
+romanize('范姜峻宏')
+> Chu
