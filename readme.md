@@ -53,4 +53,6 @@ romanize('秋木安', 'HANYU')
 
 ```javascript
 romanize('范姜峻宏')
-> Chun-Hung Fa
+> Chun-Hung Fan-Chiang
+
+ro
