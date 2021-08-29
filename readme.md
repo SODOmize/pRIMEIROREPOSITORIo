@@ -55,4 +55,4 @@ romanize('秋木安', 'HANYU')
 romanize('范姜峻宏')
 > Chun-Hung Fan-Chiang
 
-romanize('范姜峻宏'
+romanize('范姜峻宏', 'MPS-II')
