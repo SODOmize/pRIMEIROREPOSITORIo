@@ -56,4 +56,5 @@ romanize('范姜峻宏')
 > Chun-Hung Fan-Chiang
 
 romanize('范姜峻宏', 'MPS-II')
-> Jiun
+> Jiun-Hung Fan-Jiang
+
