@@ -59,4 +59,6 @@ romanize('范姜峻宏', 'MPS-II')
 > Jiun-Hung Fan-Jiang
 
 romanize('范姜峻宏', 'TONGYONG')
-> Jyun-Hong Fan-J
+> Jyun-Hong Fan-Jiang
+
+rom
