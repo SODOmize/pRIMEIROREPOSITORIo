@@ -62,4 +62,4 @@ romanize('范姜峻宏', 'TONGYONG')
 > Jyun-Hong Fan-Jiang
 
 romanize('范姜峻宏', 'HANYU')
-> Jun-H
+> Jun-Hong Fan-Jian
