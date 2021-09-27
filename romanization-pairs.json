@@ -4,3 +4,15 @@
     "TONGYONG": "BA",
     "MPS-II": "BA",
     "WG": "PA"
+  },
+  "BO": {
+    "TONGYONG": "BO",
+    "MPS-II": "BO",
+    "WG": "PO"
+  },
+  "BAI": {
+    "TONGYONG": "BAI",
+    "MPS-II": "BAI",
+    "WG": "PAI"
+  },
+  "BEI": {
