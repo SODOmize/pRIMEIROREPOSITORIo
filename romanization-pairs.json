@@ -21,3 +21,11 @@
     "WG": "PEI"
   },
   "BAO": {
+    "TONGYONG": "BAO",
+    "MPS-II": "BAU",
+    "WG": "PAO"
+  },
+  "BAN": {
+    "TONGYONG": "BAN",
+    "MPS-II": "BAN",
+    "WG": "PAN"
