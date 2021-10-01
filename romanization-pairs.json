@@ -29,3 +29,11 @@
     "TONGYONG": "BAN",
     "MPS-II": "BAN",
     "WG": "PAN"
+  },
+  "BEN": {
+    "TONGYONG": "BEN",
+    "MPS-II": "BEN",
+    "WG": "PEN"
+  },
+  "BANG": {
+    "TONGYONG": "BANG",
