@@ -55,3 +55,14 @@
     "MPS-II": "BIE",
     "WG": "PIEH"
   },
+  "BIAO": {
+    "TONGYONG": "BIAO",
+    "MPS-II": "BIAU",
+    "WG": "PIAO"
+  },
+  "BIAN": {
+    "TONGYONG": "BIAN",
+    "MPS-II": "BIAN",
+    "WG": "PIEN"
+  },
+  "BIN": {
