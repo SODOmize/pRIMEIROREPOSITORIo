@@ -45,3 +45,13 @@
     "MPS-II": "BENG",
     "WG": "PENG"
   },
+  "BI": {
+    "TONGYONG": "BI",
+    "MPS-II": "BI",
+    "WG": "PI"
+  },
+  "BIE": {
+    "TONGYONG": "BIE",
+    "MPS-II": "BIE",
+    "WG": "PIEH"
+  },
