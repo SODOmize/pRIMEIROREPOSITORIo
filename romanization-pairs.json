@@ -37,3 +37,11 @@
   },
   "BANG": {
     "TONGYONG": "BANG",
+    "MPS-II": "BANG",
+    "WG": "PANG"
+  },
+  "BENG": {
+    "TONGYONG": "BENG",
+    "MPS-II": "BENG",
+    "WG": "PENG"
+  },
