@@ -73,3 +73,9 @@
   "BING": {
     "TONGYONG": "BING",
     "MPS-II": "BING",
+    "WG": "PING"
+  },
+  "BU": {
+    "TONGYONG": "BU",
+    "MPS-II": "BU",
+    "WG": "PU"
