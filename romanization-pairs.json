@@ -98,3 +98,12 @@
   "PEI": {
     "TONGYONG": "PEI",
     "MPS-II": "PEI",
+    "WG": "PEI"
+  },
+  "PAO": {
+    "TONGYONG": "PAO",
+    "MPS-II": "PAU",
+    "WG": "PAO"
+  },
+  "POU": {
+    "TONGYONG": "POU",
