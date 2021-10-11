@@ -107,3 +107,11 @@
   },
   "POU": {
     "TONGYONG": "POU",
+    "MPS-II": "POU",
+    "WG": "POU"
+  },
+  "PAN": {
+    "TONGYONG": "PAN",
+    "MPS-II": "PAN",
+    "WG": "PAN"
+  },
