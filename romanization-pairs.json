@@ -128,3 +128,14 @@
   "PENG": {
     "TONGYONG": "PENG",
     "MPS-II": "PENG",
+    "WG": "PENG"
+  },
+  "PI": {
+    "TONGYONG": "PI",
+    "MPS-II": "PI",
+    "WG": "PI"
+  },
+  "PIE": {
+    "TONGYONG": "PIE",
+    "MPS-II": "PIE",
+    "WG": "PIEH"
