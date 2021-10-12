@@ -115,3 +115,16 @@
     "MPS-II": "PAN",
     "WG": "PAN"
   },
+  "PEN": {
+    "TONGYONG": "PEN",
+    "MPS-II": "PEN",
+    "WG": "PEN"
+  },
+  "PANG": {
+    "TONGYONG": "PANG",
+    "MPS-II": "PANG",
+    "WG": "PANG"
+  },
+  "PENG": {
+    "TONGYONG": "PENG",
+    "MPS-II": "PENG",
