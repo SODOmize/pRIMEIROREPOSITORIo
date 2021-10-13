@@ -139,3 +139,19 @@
     "TONGYONG": "PIE",
     "MPS-II": "PIE",
     "WG": "PIEH"
+  },
+  "PIAO": {
+    "TONGYONG": "PIAO",
+    "MPS-II": "PIAU",
+    "WG": "PIAO"
+  },
+  "PIAN": {
+    "TONGYONG": "PIAN",
+    "MPS-II": "PIAN",
+    "WG": "PIEN"
+  },
+  "PIN": {
+    "TONGYONG": "PIN",
+    "MPS-II": "PIN",
+    "WG": "PIN"
+  },
