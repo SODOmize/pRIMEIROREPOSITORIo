@@ -164,3 +164,16 @@
     "TONGYONG": "PU",
     "MPS-II": "PU",
     "WG": "PU"
+  },
+  "MA": {
+    "TONGYONG": "MA",
+    "MPS-II": "MA",
+    "WG": "MA"
+  },
+  "MO": {
+    "TONGYONG": "MO",
+    "MPS-II": "MO",
+    "WG": "MO"
+  },
+  "MAI": {
+    "TONGYONG": "MAI",
