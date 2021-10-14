@@ -155,3 +155,12 @@
     "MPS-II": "PIN",
     "WG": "PIN"
   },
+  "PING": {
+    "TONGYONG": "PING",
+    "MPS-II": "PING",
+    "WG": "PING"
+  },
+  "PU": {
+    "TONGYONG": "PU",
+    "MPS-II": "PU",
+    "WG": "PU"
