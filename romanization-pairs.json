@@ -177,3 +177,13 @@
   },
   "MAI": {
     "TONGYONG": "MAI",
+    "MPS-II": "MAI",
+    "WG": "MAI"
+  },
+  "MEI": {
+    "TONGYONG": "MEI",
+    "MPS-II": "MEI",
+    "WG": "MEI"
+  },
+  "MAO": {
+    "TONGYONG": "MAO",
