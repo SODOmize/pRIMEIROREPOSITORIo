@@ -200,3 +200,12 @@
     "MPS-II": "MAN",
     "WG": "MAN"
   },
+  "MEN": {
+    "TONGYONG": "MEN",
+    "MPS-II": "MEN",
+    "WG": "MEN"
+  },
+  "MANG": {
+    "TONGYONG": "MANG",
+    "MPS-II": "MANG",
+    "WG": "MANG"
