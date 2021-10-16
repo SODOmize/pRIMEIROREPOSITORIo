@@ -238,3 +238,17 @@
   "MIAN": {
     "TONGYONG": "MIAN",
     "MPS-II": "MIAN",
+    "WG": "MIEN"
+  },
+  "MIN": {
+    "TONGYONG": "MIN",
+    "MPS-II": "MIN",
+    "WG": "MIN"
+  },
+  "MING": {
+    "TONGYONG": "MING",
+    "MPS-II": "MING",
+    "WG": "MING"
+  },
+  "MU": {
+    "TONGYONG": "MU",
