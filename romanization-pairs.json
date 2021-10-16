@@ -217,3 +217,13 @@
   },
   "MI": {
     "TONGYONG": "MI",
+    "MPS-II": "MI",
+    "WG": "MI"
+  },
+  "MIE": {
+    "TONGYONG": "MIE",
+    "MPS-II": "MIE",
+    "WG": "MIEH"
+  },
+  "MIAO": {
+    "TONGYONG": "MIAO",
