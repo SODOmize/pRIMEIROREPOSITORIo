@@ -282,3 +282,11 @@
   },
   "FAN": {
     "TONGYONG": "FAN",
+    "MPS-II": "FAN",
+    "WG": "FAN"
+  },
+  "FEN": {
+    "TONGYONG": "FEN",
+    "MPS-II": "FEN",
+    "WG": "FEN"
+  },
