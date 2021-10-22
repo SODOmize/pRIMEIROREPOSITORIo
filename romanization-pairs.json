@@ -272,3 +272,13 @@
   },
   "FEI": {
     "TONGYONG": "FEI",
+    "MPS-II": "FEI",
+    "WG": "FEI"
+  },
+  "FOU": {
+    "TONGYONG": "FOU",
+    "MPS-II": "FOU",
+    "WG": "FOU"
+  },
+  "FAN": {
+    "TONGYONG": "FAN",
