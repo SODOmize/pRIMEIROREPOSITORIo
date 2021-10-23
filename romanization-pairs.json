@@ -290,3 +290,12 @@
     "MPS-II": "FEN",
     "WG": "FEN"
   },
+  "FANG": {
+    "TONGYONG": "FANG",
+    "MPS-II": "FANG",
+    "WG": "FANG"
+  },
+  "FENG": {
+    "TONGYONG": "FONG",
+    "MPS-II": "FENG",
+    "WG": "FENG"
