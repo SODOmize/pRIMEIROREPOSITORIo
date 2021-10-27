@@ -330,3 +330,18 @@
     "MPS-II": "DAU",
     "WG": "TAO"
   },
+  "DOU": {
+    "TONGYONG": "DOU",
+    "MPS-II": "DOU",
+    "WG": "TOU"
+  },
+  "DAN": {
+    "TONGYONG": "DAN",
+    "MPS-II": "DAN",
+    "WG": "TAN"
+  },
+  "DANG": {
+    "TONGYONG": "DANG",
+    "MPS-II": "DANG",
+    "WG": "TANG"
+  },
