@@ -307,3 +307,12 @@
   },
   "DA": {
     "TONGYONG": "DA",
+    "MPS-II": "DA",
+    "WG": "TA"
+  },
+  "DE": {
+    "TONGYONG": "DE",
+    "MPS-II": "DE",
+    "WG": "TE"
+  },
+  "DAI": {
