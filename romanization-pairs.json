@@ -316,3 +316,17 @@
     "WG": "TE"
   },
   "DAI": {
+    "TONGYONG": "DAI",
+    "MPS-II": "DAI",
+    "WG": "TAI"
+  },
+  "DEI": {
+    "TONGYONG": "DEI",
+    "MPS-II": "DEI",
+    "WG": "TEI"
+  },
+  "DAO": {
+    "TONGYONG": "DAO",
+    "MPS-II": "DAU",
+    "WG": "TAO"
+  },
