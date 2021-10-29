@@ -352,3 +352,9 @@
   },
   "DI": {
     "TONGYONG": "DI",
+    "MPS-II": "DI",
+    "WG": "TI"
+  },
+  "DIE": {
+    "TONGYONG": "DIE",
+    "MPS-II": "DIE",
