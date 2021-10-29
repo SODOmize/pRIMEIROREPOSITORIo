@@ -358,3 +358,11 @@
   "DIE": {
     "TONGYONG": "DIE",
     "MPS-II": "DIE",
+    "WG": "TIEH"
+  },
+  "DIAO": {
+    "TONGYONG": "DIAO",
+    "MPS-II": "DIAU",
+    "WG": "TIAO"
+  },
+  "DIU": {
