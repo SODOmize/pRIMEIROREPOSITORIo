@@ -371,3 +371,16 @@
     "WG": "TIU"
   },
   "DIAN": {
+    "TONGYONG": "DIAN",
+    "MPS-II": "DIAN",
+    "WG": "TIEN"
+  },
+  "DIANG": {
+    "TONGYONG": "DIANG",
+    "MPS-II": "DIANG",
+    "WG": "DIANG"
+  },
+  "DING": {
+    "TONGYONG": "DING",
+    "MPS-II": "DING",
+    "WG": "TING"
