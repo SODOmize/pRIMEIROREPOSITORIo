@@ -405,3 +405,18 @@
     "MPS-II": "DUAN",
     "WG": "TUAN"
   },
+  "DUN": {
+    "TONGYONG": "DUN",
+    "MPS-II": "DUEN",
+    "WG": "TUN"
+  },
+  "DONG": {
+    "TONGYONG": "DONG",
+    "MPS-II": "DUNG",
+    "WG": "TUNG"
+  },
+  "TA": {
+    "TONGYONG": "TA",
+    "MPS-II": "TA",
+    "WG": "TA"
+  },
