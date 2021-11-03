@@ -420,3 +420,17 @@
     "MPS-II": "TA",
     "WG": "TA"
   },
+  "TE": {
+    "TONGYONG": "TE",
+    "MPS-II": "TE",
+    "WG": "TE"
+  },
+  "TAI": {
+    "TONGYONG": "TAI",
+    "MPS-II": "TAI",
+    "WG": "TAI"
+  },
+  "TAO": {
+    "TONGYONG": "TAO",
+    "MPS-II": "TAU",
+    "WG": "TAO"
