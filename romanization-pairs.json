@@ -452,3 +452,15 @@
   },
   "TENG": {
     "TONGYONG": "TENG",
+    "MPS-II": "TENG",
+    "WG": "TENG"
+  },
+  "TI": {
+    "TONGYONG": "TI",
+    "MPS-II": "TI",
+    "WG": "TI"
+  },
+  "TIE": {
+    "TONGYONG": "TIE",
+    "MPS-II": "TIE",
+    "WG": "TIEH"
