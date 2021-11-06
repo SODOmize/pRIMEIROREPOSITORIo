@@ -464,3 +464,13 @@
     "TONGYONG": "TIE",
     "MPS-II": "TIE",
     "WG": "TIEH"
+  },
+  "TIAO": {
+    "TONGYONG": "TIAO",
+    "MPS-II": "TIAU",
+    "WG": "TIAO"
+  },
+  "TIAN": {
+    "TONGYONG": "TIAN",
+    "MPS-II": "TIAN",
+    "WG": "TIEN"
