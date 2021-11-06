@@ -441,3 +441,14 @@
     "WG": "TOU"
   },
   "TAN": {
+    "TONGYONG": "TAN",
+    "MPS-II": "TAN",
+    "WG": "TAN"
+  },
+  "TANG": {
+    "TONGYONG": "TANG",
+    "MPS-II": "TANG",
+    "WG": "TANG"
+  },
+  "TENG": {
+    "TONGYONG": "TENG",
