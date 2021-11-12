@@ -482,3 +482,19 @@
   },
   "TU": {
     "TONGYONG": "TU",
+    "MPS-II": "TU",
+    "WG": "TU"
+  },
+  "TUO": {
+    "TONGYONG": "TUO",
+    "MPS-II": "TUO",
+    "WG": "TO"
+  },
+  "TUI": {
+    "TONGYONG": "TUEI",
+    "MPS-II": "TUEI",
+    "WG": "TUI"
+  },
+  "TUAN": {
+    "TONGYONG": "TUAN",
+    "MPS-II": "TUAN",
