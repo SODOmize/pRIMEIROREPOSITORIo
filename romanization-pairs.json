@@ -498,3 +498,10 @@
   "TUAN": {
     "TONGYONG": "TUAN",
     "MPS-II": "TUAN",
+    "WG": "TUAN"
+  },
+  "TUN": {
+    "TONGYONG": "TUN",
+    "MPS-II": "TUEN",
+    "WG": "TUN"
+  },
