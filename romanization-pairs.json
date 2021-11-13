@@ -523,3 +523,21 @@
   "NAI": {
     "TONGYONG": "NAI",
     "MPS-II": "NAI",
+    "WG": "NAI"
+  },
+  "NEI": {
+    "TONGYONG": "NEI",
+    "MPS-II": "NEI",
+    "WG": "NEI"
+  },
+  "NAO": {
+    "TONGYONG": "NAO",
+    "MPS-II": "NAU",
+    "WG": "NAO"
+  },
+  "NOU": {
+    "TONGYONG": "NOU",
+    "MPS-II": "NOU",
+    "WG": "NOU"
+  },
+  "NAN": {
