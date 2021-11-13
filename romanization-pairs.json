@@ -505,3 +505,16 @@
     "MPS-II": "TUEN",
     "WG": "TUN"
   },
+  "TONG": {
+    "TONGYONG": "TONG",
+    "MPS-II": "TUNG",
+    "WG": "TUNG"
+  },
+  "NA": {
+    "TONGYONG": "NA",
+    "MPS-II": "NA",
+    "WG": "NA"
+  },
+  "NE": {
+    "TONGYONG": "NE",
+    "MPS-II": "NE",
