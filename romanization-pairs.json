@@ -563,3 +563,10 @@
   "NI": {
     "TONGYONG": "NI",
     "MPS-II": "NI",
+    "WG": "NI"
+  },
+  "NIE": {
+    "TONGYONG": "NIE",
+    "MPS-II": "NIE",
+    "WG": "NIEH"
+  },
