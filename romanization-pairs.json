@@ -576,3 +576,17 @@
     "WG": "NIAO"
   },
   "NIU": {
+    "TONGYONG": "NIOU",
+    "MPS-II": "NIOU",
+    "WG": "NIU"
+  },
+  "NIAN": {
+    "TONGYONG": "NIAN",
+    "MPS-II": "NIAN",
+    "WG": "NIEN"
+  },
+  "NIN": {
+    "TONGYONG": "NIN",
+    "MPS-II": "NIN",
+    "WG": "NIN"
+  },
