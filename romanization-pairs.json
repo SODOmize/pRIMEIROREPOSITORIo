@@ -619,3 +619,16 @@
     "TONGYONG": "NUN",
     "MPS-II": "NUEN",
     "WG": "NUN"
+  },
+  "NONG": {
+    "TONGYONG": "NONG",
+    "MPS-II": "NUNG",
+    "WG": "NUNG"
+  },
+  "NU": {
+    "TONGYONG": "NYU",
+    "MPS-II": "NIU",
+    "WG": "NU"
+  },
+  "NUE": {
+    "TONGYONG": "NYUE",
