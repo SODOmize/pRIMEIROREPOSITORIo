@@ -648,3 +648,15 @@
   "LE": {
     "TONGYONG": "LE",
     "MPS-II": "LE",
+    "WG": "LE"
+  },
+  "LAI": {
+    "TONGYONG": "LAI",
+    "MPS-II": "LAI",
+    "WG": "LAI"
+  },
+  "LEI": {
+    "TONGYONG": "LEI",
+    "MPS-II": "LEI",
+    "WG": "LEI"
+  },
