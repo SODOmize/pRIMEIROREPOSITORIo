@@ -637,3 +637,14 @@
   },
   "LA": {
     "TONGYONG": "LA",
+    "MPS-II": "LA",
+    "WG": "LA"
+  },
+  "LO": {
+    "TONGYONG": "LO",
+    "MPS-II": "LO",
+    "WG": "LO"
+  },
+  "LE": {
+    "TONGYONG": "LE",
+    "MPS-II": "LE",
