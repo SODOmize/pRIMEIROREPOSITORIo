@@ -660,3 +660,11 @@
     "MPS-II": "LEI",
     "WG": "LEI"
   },
+  "LAO": {
+    "TONGYONG": "LAO",
+    "MPS-II": "LAU",
+    "WG": "LAO"
+  },
+  "LOU": {
+    "TONGYONG": "LOU",
+    "MPS-II": "LOU",
