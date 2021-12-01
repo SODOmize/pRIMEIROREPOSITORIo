@@ -698,3 +698,12 @@
   "LIE": {
     "TONGYONG": "LIE",
     "MPS-II": "LIE",
+    "WG": "LIEH"
+  },
+  "LIAO": {
+    "TONGYONG": "LIAO",
+    "MPS-II": "LIAU",
+    "WG": "LIAO"
+  },
+  "LIU": {
+    "TONGYONG": "LIOU",
