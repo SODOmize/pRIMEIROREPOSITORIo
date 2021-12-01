@@ -707,3 +707,15 @@
   },
   "LIU": {
     "TONGYONG": "LIOU",
+    "MPS-II": "LIOU",
+    "WG": "LIU"
+  },
+  "LIAN": {
+    "TONGYONG": "LIAN",
+    "MPS-II": "LIAN",
+    "WG": "LIEN"
+  },
+  "LIN": {
+    "TONGYONG": "LIN",
+    "MPS-II": "LIN",
+    "WG": "LIN"
