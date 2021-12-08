@@ -719,3 +719,16 @@
     "TONGYONG": "LIN",
     "MPS-II": "LIN",
     "WG": "LIN"
+  },
+  "LIANG": {
+    "TONGYONG": "LIANG",
+    "MPS-II": "LIANG",
+    "WG": "LIANG"
+  },
+  "LING": {
+    "TONGYONG": "LING",
+    "MPS-II": "LING",
+    "WG": "LING"
+  },
+  "LU": {
+    "TONGYONG": "LU",
