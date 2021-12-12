@@ -762,3 +762,14 @@
   },
   "LUE": {
     "TONGYONG": "LYUE",
+    "MPS-II": "LIUE",
+    "WG": "LUEH"
+  },
+  "LUAN": {
+    "TONGYONG": "LUAN",
+    "MPS-II": "LIUAN",
+    "WG": "LUAN"
+  },
+  "GA": {
+    "TONGYONG": "GA",
+    "MPS-II": "GA",
