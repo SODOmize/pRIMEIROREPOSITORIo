@@ -748,3 +748,9 @@
   "LUN": {
     "TONGYONG": "LUN",
     "MPS-II": "LUEN",
+    "WG": "LUN"
+  },
+  "LONG": {
+    "TONGYONG": "LONG",
+    "MPS-II": "LUNG",
+    "WG": "LUNG"
