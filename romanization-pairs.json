@@ -788,3 +788,19 @@
   "GEI": {
     "TONGYONG": "GEI",
     "MPS-II": "GEI",
+    "WG": "KEI"
+  },
+  "GAO": {
+    "TONGYONG": "GAO",
+    "MPS-II": "GAU",
+    "WG": "KAO"
+  },
+  "GOU": {
+    "TONGYONG": "GOU",
+    "MPS-II": "GOU",
+    "WG": "KOU"
+  },
+  "GAN": {
+    "TONGYONG": "GAN",
+    "MPS-II": "GAN",
+    "WG": "KAN"
