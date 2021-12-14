@@ -773,3 +773,18 @@
   "GA": {
     "TONGYONG": "GA",
     "MPS-II": "GA",
+    "WG": "KA"
+  },
+  "GE": {
+    "TONGYONG": "GE",
+    "MPS-II": "GE",
+    "WG": "KE"
+  },
+  "GAI": {
+    "TONGYONG": "GAI",
+    "MPS-II": "GAI",
+    "WG": "KAI"
+  },
+  "GEI": {
+    "TONGYONG": "GEI",
+    "MPS-II": "GEI",
