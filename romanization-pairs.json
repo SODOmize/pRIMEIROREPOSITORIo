@@ -804,3 +804,12 @@
     "TONGYONG": "GAN",
     "MPS-II": "GAN",
     "WG": "KAN"
+  },
+  "GEN": {
+    "TONGYONG": "GEN",
+    "MPS-II": "GEN",
+    "WG": "KEN"
+  },
+  "GANG": {
+    "TONGYONG": "GANG",
+    "MPS-II": "GANG",
