@@ -838,3 +838,13 @@
   "GUAI": {
     "TONGYONG": "GUAI",
     "MPS-II": "GUAI",
+    "WG": "KUAI"
+  },
+  "GUI": {
+    "TONGYONG": "GUEI",
+    "MPS-II": "GUEI",
+    "WG": "KUEI"
+  },
+  "GUAN": {
+    "TONGYONG": "GUAN",
+    "MPS-II": "GUAN",
