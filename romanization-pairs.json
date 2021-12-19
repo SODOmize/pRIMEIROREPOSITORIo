@@ -848,3 +848,10 @@
   "GUAN": {
     "TONGYONG": "GUAN",
     "MPS-II": "GUAN",
+    "WG": "KUAN"
+  },
+  "GUN": {
+    "TONGYONG": "GUN",
+    "MPS-II": "GUEN",
+    "WG": "KUN"
+  },
