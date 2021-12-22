@@ -882,3 +882,15 @@
   },
   "KAO": {
     "TONGYONG": "KAO",
+    "MPS-II": "KAU",
+    "WG": "KAO"
+  },
+  "KOU": {
+    "TONGYONG": "KOU",
+    "MPS-II": "KOU",
+    "WG": "KOU"
+  },
+  "KAN": {
+    "TONGYONG": "KAN",
+    "MPS-II": "KAN",
+    "WG": "KAN"
