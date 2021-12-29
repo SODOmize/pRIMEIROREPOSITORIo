@@ -922,3 +922,12 @@
   },
   "KUO": {
     "TONGYONG": "KUO",
+    "MPS-II": "KUO",
+    "WG": "KUO"
+  },
+  "KUAI": {
+    "TONGYONG": "KUAI",
+    "MPS-II": "KUAI",
+    "WG": "KUAI"
+  },
+  "KUI": {
