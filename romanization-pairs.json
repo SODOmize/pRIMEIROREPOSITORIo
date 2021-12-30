@@ -940,3 +940,17 @@
     "MPS-II": "KUAN",
     "WG": "KUAN"
   },
+  "KUN": {
+    "TONGYONG": "KUN",
+    "MPS-II": "KUEN",
+    "WG": "KUN"
+  },
+  "KUANG": {
+    "TONGYONG": "KUANG",
+    "MPS-II": "KUANG",
+    "WG": "KUANG"
+  },
+  "KONG": {
+    "TONGYONG": "KONG",
+    "MPS-II": "KUNG",
+    "WG": "KUNG"
