@@ -977,3 +977,19 @@
   },
   "HAO": {
     "TONGYONG": "HAO",
+    "MPS-II": "HAU",
+    "WG": "HAO"
+  },
+  "HOU": {
+    "TONGYONG": "HOU",
+    "MPS-II": "HOU",
+    "WG": "HOU"
+  },
+  "HAN": {
+    "TONGYONG": "HAN",
+    "MPS-II": "HAN",
+    "WG": "HAN"
+  },
+  "HEN": {
+    "TONGYONG": "HEN",
+    "MPS-II": "HEN",
