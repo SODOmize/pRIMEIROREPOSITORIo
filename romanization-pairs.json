@@ -970,3 +970,10 @@
     "MPS-II": "HAI",
     "WG": "HAI"
   },
+  "HEI": {
+    "TONGYONG": "HEI",
+    "MPS-II": "HEI",
+    "WG": "HEI"
+  },
+  "HAO": {
+    "TONGYONG": "HAO",
