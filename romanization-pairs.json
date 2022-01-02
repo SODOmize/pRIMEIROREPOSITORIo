@@ -993,3 +993,14 @@
   "HEN": {
     "TONGYONG": "HEN",
     "MPS-II": "HEN",
+    "WG": "HEN"
+  },
+  "HANG": {
+    "TONGYONG": "HANG",
+    "MPS-II": "HANG",
+    "WG": "HANG"
+  },
+  "HENG": {
+    "TONGYONG": "HENG",
+    "MPS-II": "HENG",
+    "WG": "HENG"
