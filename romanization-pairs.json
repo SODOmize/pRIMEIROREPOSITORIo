@@ -1030,3 +1030,18 @@
     "MPS-II": "HUEI",
     "WG": "HUI"
   },
+  "HUAN": {
+    "TONGYONG": "HUAN",
+    "MPS-II": "HUAN",
+    "WG": "HUAN"
+  },
+  "HUN": {
+    "TONGYONG": "HUN",
+    "MPS-II": "HUEN",
+    "WG": "HUN"
+  },
+  "HUANG": {
+    "TONGYONG": "HUANG",
+    "MPS-II": "HUANG",
+    "WG": "HUANG"
+  },
