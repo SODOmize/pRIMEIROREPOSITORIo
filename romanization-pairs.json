@@ -1058,3 +1058,13 @@
   "JIA": {
     "TONGYONG": "JIA",
     "MPS-II": "JIA",
+    "WG": "CHIA"
+  },
+  "JIE": {
+    "TONGYONG": "JIE",
+    "MPS-II": "JIE",
+    "WG": "CHIEH"
+  },
+  "JIAO": {
+    "TONGYONG": "JIAO",
+    "MPS-II": "JIAU",
