@@ -1068,3 +1068,15 @@
   "JIAO": {
     "TONGYONG": "JIAO",
     "MPS-II": "JIAU",
+    "WG": "CHIAO"
+  },
+  "JIU": {
+    "TONGYONG": "JIOU",
+    "MPS-II": "JIOU",
+    "WG": "CHIU"
+  },
+  "JIAN": {
+    "TONGYONG": "JIAN",
+    "MPS-II": "JIAN",
+    "WG": "CHIEN"
+  },
