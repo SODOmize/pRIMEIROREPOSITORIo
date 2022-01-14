@@ -1089,3 +1089,16 @@
     "TONGYONG": "JIANG",
     "MPS-II": "JIANG",
     "WG": "CHIANG"
+  },
+  "JING": {
+    "TONGYONG": "JING",
+    "MPS-II": "JING",
+    "WG": "CHING"
+  },
+  "JU": {
+    "TONGYONG": "JYU",
+    "MPS-II": "JIU",
+    "WG": "CHU"
+  },
+  "JUE": {
+    "TONGYONG": "JYUE",
