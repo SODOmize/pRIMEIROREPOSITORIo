@@ -1117,3 +1117,16 @@
   },
   "JIONG": {
     "TONGYONG": "JYONG",
+    "MPS-II": "JIUNG",
+    "WG": "CHIUNG"
+  },
+  "QI": {
+    "TONGYONG": "CI",
+    "MPS-II": "CHI",
+    "WG": "CHI"
+  },
+  "QIA": {
+    "TONGYONG": "CIA",
+    "MPS-II": "CHIA",
+    "WG": "CHIA"
+  },
