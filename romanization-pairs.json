@@ -1102,3 +1102,18 @@
   },
   "JUE": {
     "TONGYONG": "JYUE",
+    "MPS-II": "JIUE",
+    "WG": "CHUEH"
+  },
+  "JUAN": {
+    "TONGYONG": "JYUAN",
+    "MPS-II": "JIUAN",
+    "WG": "CHUAN"
+  },
+  "JUN": {
+    "TONGYONG": "JYUN",
+    "MPS-II": "JIUN",
+    "WG": "CHUN"
+  },
+  "JIONG": {
+    "TONGYONG": "JYONG",
