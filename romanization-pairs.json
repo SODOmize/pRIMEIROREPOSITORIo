@@ -1138,3 +1138,13 @@
   "QIAO": {
     "TONGYONG": "CIAO",
     "MPS-II": "CHIAU",
+    "WG": "CHIAO"
+  },
+  "QIU": {
+    "TONGYONG": "CIOU",
+    "MPS-II": "CHIOU",
+    "WG": "CHIU"
+  },
+  "QIAN": {
+    "TONGYONG": "CIAN",
+    "MPS-II": "CHIAN",
