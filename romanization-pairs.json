@@ -1221,3 +1221,14 @@
     "WG": "HSIEN"
   },
   "XIN": {
+    "TONGYONG": "SIN",
+    "MPS-II": "SHIN",
+    "WG": "HSIN"
+  },
+  "XIANG": {
+    "TONGYONG": "SIANG",
+    "MPS-II": "SHIANG",
+    "WG": "HSIANG"
+  },
+  "XING": {
+    "TONGYONG": "SING",
