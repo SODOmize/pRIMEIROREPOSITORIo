@@ -1208,3 +1208,16 @@
   "XIAO": {
     "TONGYONG": "SIAO",
     "MPS-II": "SHIAU",
+    "WG": "HSIAO"
+  },
+  "XIU": {
+    "TONGYONG": "SIOU",
+    "MPS-II": "SHIOU",
+    "WG": "HSIU"
+  },
+  "XIAN": {
+    "TONGYONG": "SIAN",
+    "MPS-II": "SHIAN",
+    "WG": "HSIEN"
+  },
+  "XIN": {
