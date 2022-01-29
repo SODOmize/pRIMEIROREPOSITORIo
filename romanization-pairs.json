@@ -1241,3 +1241,14 @@
     "WG": "HSU"
   },
   "XUE": {
+    "TONGYONG": "SYUE",
+    "MPS-II": "SHIUE",
+    "WG": "HSUEH"
+  },
+  "XUAN": {
+    "TONGYONG": "SYUAN",
+    "MPS-II": "SHIUAN",
+    "WG": "HSUAN"
+  },
+  "XUN": {
+    "TONGYONG": "SYUN",
