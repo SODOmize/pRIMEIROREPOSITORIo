@@ -1252,3 +1252,14 @@
   },
   "XUN": {
     "TONGYONG": "SYUN",
+    "MPS-II": "SHIUN",
+    "WG": "HSUN"
+  },
+  "XIONG": {
+    "TONGYONG": "SYONG",
+    "MPS-II": "SHIUNG",
+    "WG": "HSIUNG"
+  },
+  "ZHI": {
+    "TONGYONG": "JHIH",
+    "MPS-II": "JR",
