@@ -1263,3 +1263,14 @@
   "ZHI": {
     "TONGYONG": "JHIH",
     "MPS-II": "JR",
+    "WG": "CHIH"
+  },
+  "ZHA": {
+    "TONGYONG": "JHA",
+    "MPS-II": "JA",
+    "WG": "CHA"
+  },
+  "ZHE": {
+    "TONGYONG": "JHE",
+    "MPS-II": "JE",
+    "WG": "CHE"
