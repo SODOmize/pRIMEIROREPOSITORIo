@@ -1295,3 +1295,10 @@
     "MPS-II": "JOU",
     "WG": "CHOU"
   },
+  "ZHAN": {
+    "TONGYONG": "JHAN",
+    "MPS-II": "JAN",
+    "WG": "CHAN"
+  },
+  "ZHEN": {
+    "TONGYONG": "JHEN",
