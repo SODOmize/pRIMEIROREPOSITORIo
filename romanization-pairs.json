@@ -1319,3 +1319,11 @@
     "TONGYONG": "JHU",
     "MPS-II": "JU",
     "WG": "CHU"
+  },
+  "ZHUA": {
+    "TONGYONG": "JHUA",
+    "MPS-II": "JUA",
+    "WG": "CHUA"
+  },
+  "ZHUO": {
+    "TONGYONG": "JHUO",
