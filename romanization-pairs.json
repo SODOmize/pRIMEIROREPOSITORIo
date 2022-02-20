@@ -1308,3 +1308,14 @@
   "ZHANG": {
     "TONGYONG": "JHANG",
     "MPS-II": "JANG",
+    "WG": "CHANG"
+  },
+  "ZHENG": {
+    "TONGYONG": "JHENG",
+    "MPS-II": "JENG",
+    "WG": "CHENG"
+  },
+  "ZHU": {
+    "TONGYONG": "JHU",
+    "MPS-II": "JU",
+    "WG": "CHU"
