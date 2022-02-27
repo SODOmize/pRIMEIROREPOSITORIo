@@ -1332,3 +1332,10 @@
   },
   "ZHUAI": {
     "TONGYONG": "JHUAI",
+    "MPS-II": "JUAI",
+    "WG": "CHUAI"
+  },
+  "ZHUI": {
+    "TONGYONG": "JHUEI",
+    "MPS-II": "JUEI",
+    "WG": "CHUI"
