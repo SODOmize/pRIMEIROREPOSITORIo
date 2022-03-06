@@ -1339,3 +1339,13 @@
     "TONGYONG": "JHUEI",
     "MPS-II": "JUEI",
     "WG": "CHUI"
+  },
+  "ZHUAN": {
+    "TONGYONG": "JHUAN",
+    "MPS-II": "JUAN",
+    "WG": "CHUAN"
+  },
+  "ZHUN": {
+    "TONGYONG": "JHUN",
+    "MPS-II": "JUEN",
+    "WG": "CHUN"
