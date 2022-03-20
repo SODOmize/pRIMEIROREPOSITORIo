@@ -1383,3 +1383,21 @@
   "CHAO": {
     "TONGYONG": "CHAO",
     "MPS-II": "CHAU",
+    "WG": "CHAO"
+  },
+  "CHOU": {
+    "TONGYONG": "CHOU",
+    "MPS-II": "CHOU",
+    "WG": "CHOU"
+  },
+  "CHAN": {
+    "TONGYONG": "CHAN",
+    "MPS-II": "CHAN",
+    "WG": "CHAN"
+  },
+  "CHEN": {
+    "TONGYONG": "CHEN",
+    "MPS-II": "CHEN",
+    "WG": "CHEN"
+  },
+  "CHANG": {
