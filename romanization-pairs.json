@@ -1373,3 +1373,13 @@
   "CHE": {
     "TONGYONG": "CHE",
     "MPS-II": "CHE",
+    "WG": "CHE"
+  },
+  "CHAI": {
+    "TONGYONG": "CHAI",
+    "MPS-II": "CHAI",
+    "WG": "CHAI"
+  },
+  "CHAO": {
+    "TONGYONG": "CHAO",
+    "MPS-II": "CHAU",
