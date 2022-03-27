@@ -1413,3 +1413,14 @@
   "CHU": {
     "TONGYONG": "CHU",
     "MPS-II": "CHU",
+    "WG": "CHU"
+  },
+  "CHUA": {
+    "TONGYONG": "CHUA",
+    "MPS-II": "CHUA",
+    "WG": "CHUA"
+  },
+  "CHUO": {
+    "TONGYONG": "CHUO",
+    "MPS-II": "CHUO",
+    "WG": "CHO"
