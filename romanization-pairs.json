@@ -1437,3 +1437,17 @@
   },
   "CHUAN": {
     "TONGYONG": "CHUAN",
+    "MPS-II": "CHUAN",
+    "WG": "CHUAN"
+  },
+  "CHUN": {
+    "TONGYONG": "CHUN",
+    "MPS-II": "CHUEN",
+    "WG": "CHUN"
+  },
+  "CHUANG": {
+    "TONGYONG": "CHUANG",
+    "MPS-II": "CHUANG",
+    "WG": "CHUANG"
+  },
+  "CHONG": {
