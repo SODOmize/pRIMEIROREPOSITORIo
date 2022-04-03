@@ -1464,3 +1464,15 @@
     "TONGYONG": "SHA",
     "MPS-II": "SHA",
     "WG": "SHA"
+  },
+  "SHE": {
+    "TONGYONG": "SHE",
+    "MPS-II": "SHE",
+    "WG": "SHE"
+  },
+  "SHAI": {
+    "TONGYONG": "SHAI",
+    "MPS-II": "SHAI",
+    "WG": "SHAI"
+  },
+  "SHEI": {
