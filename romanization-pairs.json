@@ -1502,3 +1502,18 @@
   },
   "SHANG": {
     "TONGYONG": "SHANG",
+    "MPS-II": "SHANG",
+    "WG": "SHANG"
+  },
+  "SHENG": {
+    "TONGYONG": "SHENG",
+    "MPS-II": "SHENG",
+    "WG": "SHENG"
+  },
+  "SHU": {
+    "TONGYONG": "SHU",
+    "MPS-II": "SHU",
+    "WG": "SHU"
+  },
+  "SHUA": {
+    "TONGYONG": "SHUA",
