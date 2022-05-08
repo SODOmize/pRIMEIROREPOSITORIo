@@ -1547,3 +1547,15 @@
   },
   "SHUANG": {
     "TONGYONG": "SHUANG",
+    "MPS-II": "SHUANG",
+    "WG": "SHUANG"
+  },
+  "RI": {
+    "TONGYONG": "RIH",
+    "MPS-II": "R",
+    "WG": "JIH"
+  },
+  "RE": {
+    "TONGYONG": "RE",
+    "MPS-II": "RE",
+    "WG": "JE"
