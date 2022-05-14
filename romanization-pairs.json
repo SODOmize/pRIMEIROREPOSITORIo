@@ -1582,3 +1582,12 @@
   },
   "RANG": {
     "TONGYONG": "RANG",
+    "MPS-II": "RANG",
+    "WG": "JANG"
+  },
+  "RENG": {
+    "TONGYONG": "RENG",
+    "MPS-II": "RENG",
+    "WG": "JENG"
+  },
+  "RU": {
