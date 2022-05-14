@@ -1573,3 +1573,12 @@
   "RAN": {
     "TONGYONG": "RAN",
     "MPS-II": "RAN",
+    "WG": "JAN"
+  },
+  "REN": {
+    "TONGYONG": "REN",
+    "MPS-II": "REN",
+    "WG": "JEN"
+  },
+  "RANG": {
+    "TONGYONG": "RANG",
