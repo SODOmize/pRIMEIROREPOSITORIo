@@ -1615,3 +1615,13 @@
     "MPS-II": "RUEN",
     "WG": "JUN"
   },
+  "RONG": {
+    "TONGYONG": "RONG",
+    "MPS-II": "RUNG",
+    "WG": "JUNG"
+  },
+  "ZI": {
+    "TONGYONG": "ZIH",
+    "MPS-II": "TZ",
+    "WG": "TZU"
+  },
