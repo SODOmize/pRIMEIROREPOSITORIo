@@ -1625,3 +1625,13 @@
     "MPS-II": "TZ",
     "WG": "TZU"
   },
+  "ZA": {
+    "TONGYONG": "ZA",
+    "MPS-II": "TZA",
+    "WG": "TSA"
+  },
+  "ZE": {
+    "TONGYONG": "ZE",
+    "MPS-II": "TZE",
+    "WG": "TSE"
+  },
