@@ -1635,3 +1635,13 @@
     "MPS-II": "TZE",
     "WG": "TSE"
   },
+  "ZAI": {
+    "TONGYONG": "ZAI",
+    "MPS-II": "TZAI",
+    "WG": "TSAI"
+  },
+  "ZEI": {
+    "TONGYONG": "ZEI",
+    "MPS-II": "TZEI",
+    "WG": "TSEI"
+  },
