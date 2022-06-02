@@ -1652,3 +1652,11 @@
   },
   "ZOU": {
     "TONGYONG": "ZOU",
+    "MPS-II": "TZOU",
+    "WG": "TSOU"
+  },
+  "ZAN": {
+    "TONGYONG": "ZAN",
+    "MPS-II": "TZAN",
+    "WG": "TSAN"
+  },
