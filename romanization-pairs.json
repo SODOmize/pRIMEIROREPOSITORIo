@@ -1660,3 +1660,14 @@
     "MPS-II": "TZAN",
     "WG": "TSAN"
   },
+  "ZEN": {
+    "TONGYONG": "ZEN",
+    "MPS-II": "TZEN",
+    "WG": "TSEN"
+  },
+  "ZANG": {
+    "TONGYONG": "ZANG",
+    "MPS-II": "TZANG",
+    "WG": "TSANG"
+  },
+  "ZENG": {
