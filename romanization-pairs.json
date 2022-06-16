@@ -1671,3 +1671,17 @@
     "WG": "TSANG"
   },
   "ZENG": {
+    "TONGYONG": "ZENG",
+    "MPS-II": "TZENG",
+    "WG": "TSENG"
+  },
+  "ZU": {
+    "TONGYONG": "ZU",
+    "MPS-II": "TZU",
+    "WG": "TSU"
+  },
+  "ZUO": {
+    "TONGYONG": "ZUO",
+    "MPS-II": "TZUO",
+    "WG": "TSO"
+  },
