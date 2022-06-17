@@ -1710,3 +1710,16 @@
     "MPS-II": "TSZ",
     "WG": "TZU"
   },
+  "CA": {
+    "TONGYONG": "CA",
+    "MPS-II": "TSA",
+    "WG": "TSA"
+  },
+  "CE": {
+    "TONGYONG": "CE",
+    "MPS-II": "TSE",
+    "WG": "TSE"
+  },
+  "CAI": {
+    "TONGYONG": "CAI",
+    "MPS-II": "TSAI",
