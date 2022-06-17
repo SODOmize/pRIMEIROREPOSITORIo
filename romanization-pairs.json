@@ -1723,3 +1723,9 @@
   "CAI": {
     "TONGYONG": "CAI",
     "MPS-II": "TSAI",
+    "WG": "TSAI"
+  },
+  "CAO": {
+    "TONGYONG": "CAO",
+    "MPS-II": "TSAU",
+    "WG": "TSAO"
