@@ -1759,3 +1759,14 @@
     "TONGYONG": "CU",
     "MPS-II": "TSU",
     "WG": "TSU"
+  },
+  "CUO": {
+    "TONGYONG": "CUO",
+    "MPS-II": "TSUO",
+    "WG": "TSO"
+  },
+  "CUI": {
+    "TONGYONG": "CUEI",
+    "MPS-II": "TSUEI",
+    "WG": "TSUI"
+  },
