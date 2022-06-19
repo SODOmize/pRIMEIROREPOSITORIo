@@ -1736,3 +1736,15 @@
     "WG": "TSOU"
   },
   "CAN": {
+    "TONGYONG": "CAN",
+    "MPS-II": "TSAN",
+    "WG": "TSAN"
+  },
+  "CEN": {
+    "TONGYONG": "CEN",
+    "MPS-II": "TSEN",
+    "WG": "TSEN"
+  },
+  "CANG": {
+    "TONGYONG": "CANG",
+    "MPS-II": "TSANG",
