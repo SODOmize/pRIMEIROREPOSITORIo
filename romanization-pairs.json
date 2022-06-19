@@ -1729,3 +1729,10 @@
     "TONGYONG": "CAO",
     "MPS-II": "TSAU",
     "WG": "TSAO"
+  },
+  "COU": {
+    "TONGYONG": "COU",
+    "MPS-II": "TSOU",
+    "WG": "TSOU"
+  },
+  "CAN": {
