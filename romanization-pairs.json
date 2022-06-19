@@ -1748,3 +1748,14 @@
   "CANG": {
     "TONGYONG": "CANG",
     "MPS-II": "TSANG",
+    "WG": "TSANG"
+  },
+  "CENG": {
+    "TONGYONG": "CENG",
+    "MPS-II": "TSENG",
+    "WG": "TSENG"
+  },
+  "CU": {
+    "TONGYONG": "CU",
+    "MPS-II": "TSU",
+    "WG": "TSU"
