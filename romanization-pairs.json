@@ -1779,3 +1779,8 @@
     "TONGYONG": "CUN",
     "MPS-II": "TSUEN",
     "WG": "TSUN"
+  },
+  "CONG": {
+    "TONGYONG": "CONG",
+    "MPS-II": "TSUNG",
+    "WG": "TSUNG"
