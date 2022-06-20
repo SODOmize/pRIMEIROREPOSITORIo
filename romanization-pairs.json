@@ -1770,3 +1770,12 @@
     "MPS-II": "TSUEI",
     "WG": "TSUI"
   },
+  "CUAN": {
+    "TONGYONG": "CUAN",
+    "MPS-II": "TSUAN",
+    "WG": "TSUAN"
+  },
+  "CUN": {
+    "TONGYONG": "CUN",
+    "MPS-II": "TSUEN",
+    "WG": "TSUN"
