@@ -1784,3 +1784,12 @@
     "TONGYONG": "CONG",
     "MPS-II": "TSUNG",
     "WG": "TSUNG"
+  },
+  "SI": {
+    "TONGYONG": "SIH",
+    "MPS-II": "SZ",
+    "WG": "SSU"
+  },
+  "SA": {
+    "TONGYONG": "SA",
+    "MPS-II": "SA",
