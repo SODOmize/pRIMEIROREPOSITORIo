@@ -1793,3 +1793,16 @@
   "SA": {
     "TONGYONG": "SA",
     "MPS-II": "SA",
+    "WG": "SA"
+  },
+  "SE": {
+    "TONGYONG": "SE",
+    "MPS-II": "SE",
+    "WG": "SE"
+  },
+  "SAI": {
+    "TONGYONG": "SAI",
+    "MPS-II": "SAI",
+    "WG": "SAI"
+  },
+  "SAO": {
