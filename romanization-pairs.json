@@ -1813,3 +1813,15 @@
   "SOU": {
     "TONGYONG": "SOU",
     "MPS-II": "SOU",
+    "WG": "SOU"
+  },
+  "SAN": {
+    "TONGYONG": "SAN",
+    "MPS-II": "SAN",
+    "WG": "SAN"
+  },
+  "SEN": {
+    "TONGYONG": "SEN",
+    "MPS-II": "SEN",
+    "WG": "SEN"
+  },
