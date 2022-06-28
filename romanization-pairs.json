@@ -1850,3 +1850,15 @@
     "MPS-II": "SUEI",
     "WG": "SUI"
   },
+  "SUAN": {
+    "TONGYONG": "SUAN",
+    "MPS-II": "SUAN",
+    "WG": "SUAN"
+  },
+  "SUN": {
+    "TONGYONG": "SUN",
+    "MPS-II": "SUEN",
+    "WG": "SUN"
+  },
+  "SONG": {
+    "TONGYONG": "SONG",
