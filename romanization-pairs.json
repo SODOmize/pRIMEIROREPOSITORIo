@@ -1840,3 +1840,13 @@
     "MPS-II": "SU",
     "WG": "SU"
   },
+  "SUO": {
+    "TONGYONG": "SUO",
+    "MPS-II": "SUO",
+    "WG": "SO"
+  },
+  "SUI": {
+    "TONGYONG": "SUEI",
+    "MPS-II": "SUEI",
+    "WG": "SUI"
+  },
