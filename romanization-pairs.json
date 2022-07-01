@@ -1887,3 +1887,11 @@
   },
   "YAI": {
     "TONGYONG": "YAI",
+    "MPS-II": "YAI",
+    "WG": "YAI"
+  },
+  "YAO": {
+    "TONGYONG": "YAO",
+    "MPS-II": "YAU",
+    "WG": "YAO"
+  },
