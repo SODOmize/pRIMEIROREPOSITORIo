@@ -1953,3 +1953,14 @@
   "WEN": {
     "TONGYONG": "WUN",
     "MPS-II": "WEN",
+    "WG": "WEN"
+  },
+  "WANG": {
+    "TONGYONG": "WANG",
+    "MPS-II": "WANG",
+    "WG": "WANG"
+  },
+  "WENG": {
+    "TONGYONG": "WONG",
+    "MPS-II": "WENG",
+    "WG": "WENG"
