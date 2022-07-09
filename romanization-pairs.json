@@ -1917,3 +1917,14 @@
   },
   "YING": {
     "TONGYONG": "YING",
+    "MPS-II": "YING",
+    "WG": "YING"
+  },
+  "WU": {
+    "TONGYONG": "WU",
+    "MPS-II": "WU",
+    "WG": "WU"
+  },
+  "WA": {
+    "TONGYONG": "WA",
+    "MPS-II": "WA",
