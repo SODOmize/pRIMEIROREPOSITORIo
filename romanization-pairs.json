@@ -1928,3 +1928,16 @@
   "WA": {
     "TONGYONG": "WA",
     "MPS-II": "WA",
+    "WG": "WA"
+  },
+  "WO": {
+    "TONGYONG": "WO",
+    "MPS-II": "WO",
+    "WG": "WO"
+  },
+  "WAI": {
+    "TONGYONG": "WAI",
+    "MPS-II": "WAI",
+    "WG": "WAI"
+  },
+  "WEI": {
