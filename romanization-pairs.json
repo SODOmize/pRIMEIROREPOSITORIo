@@ -1941,3 +1941,15 @@
     "WG": "WAI"
   },
   "WEI": {
+    "TONGYONG": "WEI",
+    "MPS-II": "WEI",
+    "WG": "WEI"
+  },
+  "WAN": {
+    "TONGYONG": "WAN",
+    "MPS-II": "WAN",
+    "WG": "WAN"
+  },
+  "WEN": {
+    "TONGYONG": "WUN",
+    "MPS-II": "WEN",
