@@ -1978,3 +1978,14 @@
   "YUAN": {
     "TONGYONG": "YUAN",
     "MPS-II": "YUAN",
+    "WG": "YUAN"
+  },
+  "YUN": {
+    "TONGYONG": "YUN",
+    "MPS-II": "YUN",
+    "WG": "YUN"
+  },
+  "YONG": {
+    "TONGYONG": "YONG",
+    "MPS-II": "YUNG",
+    "WG": "YUNG"
