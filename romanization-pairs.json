@@ -2007,3 +2007,10 @@
   },
   "AI": {
     "TONGYONG": "AI",
+    "MPS-II": "AI",
+    "WG": "AI"
+  },
+  "EI": {
+    "TONGYONG": "EI",
+    "MPS-II": "EI",
+    "WG": "EI"
