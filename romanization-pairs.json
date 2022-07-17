@@ -2014,3 +2014,10 @@
     "TONGYONG": "EI",
     "MPS-II": "EI",
     "WG": "EI"
+  },
+  "AO": {
+    "TONGYONG": "AO",
+    "MPS-II": "AU",
+    "WG": "AO"
+  },
+  "OU": {
