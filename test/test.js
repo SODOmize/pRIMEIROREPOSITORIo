@@ -1,1 +1,1 @@
-var romanize = require('.
+var romanize = require('../index.j
