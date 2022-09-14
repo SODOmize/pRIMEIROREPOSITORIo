@@ -1,1 +1,1 @@
-var romaniz
+var romanize = require('.
