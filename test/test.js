@@ -1,2 +1,2 @@
 var romanize = require('../index.js')
-var test =
+var test = require('tap
