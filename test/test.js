@@ -1,2 +1,3 @@
 var romanize = require('../index.js')
-var test = require('tap
+var test = require('tape')
+var s
