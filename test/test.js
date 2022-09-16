@@ -1,3 +1,3 @@
 var romanize = require('../index.js')
 var test = require('tape')
-var systems = ['WG', '
+var systems = ['WG', 'MPS-II', 'TONGYONG'
