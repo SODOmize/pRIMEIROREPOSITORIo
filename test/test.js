@@ -6,4 +6,4 @@ test('2-char name', function (t) {
   var results = ['Hsuan Chang', 'Shiuan Jang', 'Syuan Jhang', 'Xuan Zhang']
 
   systems.forEach(function (sys, i) {
-    var name = romani
+    var name = romanize('張懸',
