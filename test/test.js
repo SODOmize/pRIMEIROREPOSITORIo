@@ -7,4 +7,4 @@ test('2-char name', function (t) {
 
   systems.forEach(function (sys, i) {
     var name = romanize('張懸', sys)
-    t.equal(results[i], name, 'translated in
+    t.equal(results[i], name, 'translated in ' + sys 
