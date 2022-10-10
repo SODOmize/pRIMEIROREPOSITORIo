@@ -10,4 +10,7 @@ test('2-char name', function (t) {
     t.equal(results[i], name, 'translated in ' + sys + ' correctly.')
   })
 
-  t.e
+  t.end()
+})
+
+test(
