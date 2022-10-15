@@ -13,4 +13,5 @@ test('2-char name', function (t) {
   t.end()
 })
 
-test('3-char name', function (
+test('3-char name', function (t) {
+  var 
