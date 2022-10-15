@@ -14,4 +14,4 @@ test('2-char name', function (t) {
 })
 
 test('3-char name', function (t) {
-  var results = 
+  var results = ['Mu-An Chiu',
