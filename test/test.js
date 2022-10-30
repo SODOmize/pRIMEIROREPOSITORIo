@@ -16,4 +16,4 @@ test('2-char name', function (t) {
 test('3-char name', function (t) {
   var results = ['Mu-An Chiu', 'Mu-An Chiou', 'Mu-An Ciou', 'Mu-An Qiu']
 
-  systems.forEach(fun
+  systems.forEach(function 
