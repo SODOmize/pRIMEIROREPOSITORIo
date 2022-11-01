@@ -17,4 +17,4 @@ test('3-char name', function (t) {
   var results = ['Mu-An Chiu', 'Mu-An Chiou', 'Mu-An Ciou', 'Mu-An Qiu']
 
   systems.forEach(function (sys, i) {
-    var name = roman
+    var name = romanize('秋木安', s
