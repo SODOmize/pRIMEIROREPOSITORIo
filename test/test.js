@@ -18,4 +18,4 @@ test('3-char name', function (t) {
 
   systems.forEach(function (sys, i) {
     var name = romanize('秋木安', sys)
-    t.equal(results[i], name, 'translated in ' + sys 
+    t.equal(results[i], name, 'translated in ' + sys + ' correct
