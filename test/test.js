@@ -22,3 +22,6 @@ test('3-char name', function (t) {
   })
 
   t.end()
+})
+
+test
