@@ -24,4 +24,4 @@ test('3-char name', function (t) {
   t.end()
 })
 
-test
+test('4-ch
