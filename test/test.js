@@ -24,4 +24,5 @@ test('3-char name', function (t) {
   t.end()
 })
 
-test('4-char name', function (t
+test('4-char name', function (t) {
+  var resu
