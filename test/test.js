@@ -25,4 +25,4 @@ test('3-char name', function (t) {
 })
 
 test('4-char name', function (t) {
-  var results = ['Chun-Hung 
+  var results = ['Chun-Hung Fan-Chiang
