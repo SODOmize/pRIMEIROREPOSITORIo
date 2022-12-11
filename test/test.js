@@ -27,4 +27,4 @@ test('3-char name', function (t) {
 test('4-char name', function (t) {
   var results = ['Chun-Hung Fan-Chiang', 'Jiun-Hung Fan-Jiang', 'Jyun-Hong Fan-Jiang', 'Jun-Hong Fan-Jiang']
 
-  systems.
+  systems.forEach(fu
