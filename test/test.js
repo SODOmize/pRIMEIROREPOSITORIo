@@ -30,3 +30,6 @@ test('4-char name', function (t) {
   systems.forEach(function (sys, i) {
     var name = romanize('范姜峻宏', sys)
     t.equal(results[i], name, 'translated in ' + sys + ' correctly.')
+  })
+
+  
