@@ -32,4 +32,5 @@ test('4-char name', function (t) {
     t.equal(results[i], name, 'translated in ' + sys + ' correctly.')
   })
 
-  
+  t.end()
+})
