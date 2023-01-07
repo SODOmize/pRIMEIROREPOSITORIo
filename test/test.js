@@ -35,4 +35,5 @@ test('4-char name', function (t) {
   t.end()
 })
 
-test('edge cases', function (t)
+test('edge cases', function (t) {
+  var nameW
