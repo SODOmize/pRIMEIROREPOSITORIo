@@ -35,4 +35,4 @@ test('4-char name', function (t) {
   t.end()
 })
 
-test('edge cases', func
+test('edge cases', function (t)
