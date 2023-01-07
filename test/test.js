@@ -36,4 +36,4 @@ test('4-char name', function (t) {
 })
 
 test('edge cases', function (t) {
-  var nameW
+  var nameWithSpaces = 
