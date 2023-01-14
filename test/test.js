@@ -37,4 +37,4 @@ test('4-char name', function (t) {
 
 test('edge cases', function (t) {
   var nameWithSpaces = romanize('姓  空白')
-  t.equal(nameWi
+  t.equal(nameWithSpaces,
