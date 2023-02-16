@@ -40,4 +40,6 @@ test('edge cases', function (t) {
   t.equal(nameWithSpaces, 'Kung-Pai Hsing', 'name translated corrently disregarding spaces')
 
   var heteronymSurname = romanize('解魯')
-  t.equal(heteronymSurname, 'Lu Hsieh', 'heteronym surname has the correct pronunciation
+  t.equal(heteronymSurname, 'Lu Hsieh', 'heteronym surname has the correct pronunciation')
+
+  t.e
