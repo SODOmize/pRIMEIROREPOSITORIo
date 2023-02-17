@@ -42,4 +42,6 @@ test('edge cases', function (t) {
   var heteronymSurname = romanize('解魯')
   t.equal(heteronymSurname, 'Lu Hsieh', 'heteronym surname has the correct pronunciation')
 
-  t.e
+  t.end()
+})
+
