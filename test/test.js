@@ -45,4 +45,4 @@ test('edge cases', function (t) {
   t.end()
 })
 
-test('sad pa
+test('sad paths', fun
