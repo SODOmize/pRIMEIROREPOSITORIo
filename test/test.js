@@ -46,4 +46,4 @@ test('edge cases', function (t) {
 })
 
 test('sad paths', function (t) {
-  t.throw
+  t.throws(fun
