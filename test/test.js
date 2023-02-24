@@ -47,4 +47,4 @@ test('edge cases', function (t) {
 
 test('sad paths', function (t) {
   t.throws(function () {
-    rom
+    romanize('cool e
