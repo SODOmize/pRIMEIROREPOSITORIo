@@ -48,4 +48,4 @@ test('edge cases', function (t) {
 test('sad paths', function (t) {
   t.throws(function () {
     romanize('cool english')
-  }, /Input contains non-Chinese characters/, 'non-Chinese in
+  }, /Input contains non-Chinese characters/, 'non-Chinese input trigg
