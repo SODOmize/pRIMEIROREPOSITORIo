@@ -50,4 +50,5 @@ test('sad paths', function (t) {
     romanize('cool english')
   }, /Input contains non-Chinese characters/, 'non-Chinese input triggers an exception')
 
-  t.en
+  t.end()
+})
